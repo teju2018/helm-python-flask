@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  python-flask:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-05T22:38:20.005859386+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1a78a921e30a973d517bb33395ec72ce17b259a948caf3d5efc34bcbd0888b03
+    name: python-flask
+    type: application
+    urls:
+    - https://teju2018.github.io/helm-python-flask/python-flask-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-05T22:38:20.003779096+05:30"
